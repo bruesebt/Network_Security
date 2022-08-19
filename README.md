@@ -1,11 +1,6 @@
 # Network_Security
-Assignments completed for Network Security at the University of Cincinnati, Spring 2022
-
-## Assignment Descriptions
+Assignments completed for Network Security at the University of Cincinnati, Spring 2022, by Brad Bruesewitz. All the directories contain the source code, any data that was required to complete the assignment, as well as a report, detailing the specifics of the assignment, and how it was completed. To further your understanding of each assignment, please see each report. 
 
 
-### AES
-
-This assignment was to create (from scratch) one round of AES encryption. The folder contains the main python script as well as the helper functions.
 
 
