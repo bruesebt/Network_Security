@@ -3,7 +3,7 @@ This repository contains assignments completed for the Network Security course a
 
 ### Contents
 
-All the directories contain the source code, any data that was required to complete the assignment, as well as a report, detailing the specifics of the assignment, and how it was completed. To further your understanding of each assignment, please see each report. 
+All the directories contain the source code, any data that was required to complete the assignment, as well as a report which detais the specifics of the assignment and how it was completed. To further your understanding of each assignment, please see each report. 
 
 
 
